@@ -1,0 +1,12 @@
+---
+title: "package_details"
+author: "Zhichao Yang"
+date: "2017-2-18"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{package_details}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The package is simply for counting the accidents in certain state and time.
